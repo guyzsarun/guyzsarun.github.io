@@ -4,7 +4,6 @@ title: "การสร้าง Root HTTPProxy บน Contour"
 author: guyzsarun
 categories: [kubernetes, contour]
 image: assets/images/k8s-ingress-with-contour/contour-2.png
-featured: true
 ---
 
 หลังจากที่เราทำการ Install Contour เป็น Kubernetes Ingress ไปใน [Part ที่แล้ว](https://medium.com/vmware-tech-community-thailand/%E0%B8%AA%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%87-kubernetes-ingress-%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%A2-contour-928ab79292ed)  
