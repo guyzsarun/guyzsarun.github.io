@@ -56,11 +56,11 @@ SNMP ใช้การสื่อสารแบบ UDP ( User Datagram Protoc
 
    ![Cloud Proxy](../assets/images/snmp-vrops/3.png)
 
-3. เลือก Download Cloud Proxy OVA และทำการ Save OVA ไว้ที่เครื่อง Local
+3. เลือก `Download Cloud Proxy OVA` และทำการ Save OVA ไว้ที่เครื่อง Local
 
    ![Cloud Proxy OVA](../assets/images/snmp-vrops/4.png)
 
-4. ที่หน้า vSphere Client เลือกที่ Cluster หรือ Folder ของเราที่ต้องการ Deploy Cloud Proxy แล้วกด Deploy OVF Template
+4. ที่หน้า vSphere Client เลือกที่ Cluster หรือ Folder ของเราที่ต้องการ Deploy Cloud Proxy แล้วกด `Deploy OVF Template`
 
    ![Cloud Proxy OVA Creation](../assets/images/snmp-vrops/5.png)
 
@@ -91,10 +91,10 @@ SNMP ใช้การสื่อสารแบบ UDP ( User Datagram Protoc
 
 ![VMware Marketplace SNMP Adapter](../assets/images/snmp-vrops/9.png)
 
-โดยในส่วนของ SNMP Adapter จะใช้ชื่อว่า VMware vRealize Operations Management Pack for SNMP ( ในตัวอย่างเป็น Version 3.2.1 ) สามารถ Download ได้จาก VMware Marketplace
+โดยในส่วนของ SNMP Adapter จะใช้ชื่อว่า VMware vRealize Operations Management Pack for SNMP ( ในตัวอย่างเป็น Version 3.2.1 ) สามารถ Download ได้จาก [VMware Marketplace](https://marketplace.cloud.vmware.com/)
 
 **SNMP Adapter Installation**
-1. เข้าไปที่ VMware Marketplace และ Download ไฟล์ PAK Management Pack ของ SNMP
+1. เข้าไปที่ [VMware Marketplace](https://marketplace.cloud.vmware.com/) และ Download ไฟล์ PAK Management Pack ของ SNMP
 2. เข้าไปที่ Data Sources -> Integrations แล้วกด ADD ใน Tab Repository
 
    ![vROps Integration](../assets/images/snmp-vrops/10.png)
