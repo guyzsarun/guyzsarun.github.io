@@ -2,7 +2,7 @@ version: "3.9"
 services:
     jekyll:
         image: jekyll/jekyll:3.8
-        command: jekyll serve --watch --force_polling
+        command: jekyll serve --watch --force_polling --livereload
         ports:
             - 4000:4000
         volumes:
