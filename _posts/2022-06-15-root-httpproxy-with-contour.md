@@ -2,7 +2,7 @@
 layout: post
 title: "การสร้าง Root HTTPProxy บน Contour"
 author: guyzsarun
-categories: [kubernetes, contour]
+categories: [kubernetes, contour, vmware]
 image: assets/images/k8s-ingress-with-contour/contour-2.png
 ---
 

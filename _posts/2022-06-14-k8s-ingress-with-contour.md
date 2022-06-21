@@ -2,9 +2,8 @@
 layout: post
 title: "สร้าง Kubernetes Ingress ด้วย Contour"
 author: guyzsarun
-categories: [kubernetes, contour]
+categories: [kubernetes, contour, vmware]
 image: assets/images/k8s-ingress-with-contour/contour.png
-featured: true
 ---
 
 วันนี้เราจะมาลองสร้าง Kubernetes Ingress ด้วย Contour กัน. Contour เป็น Ingress Controller ( Layer 7 ) สำหรับ Kubernetes cluster ที่ใช้
