@@ -2,7 +2,7 @@
 layout: post
 title: "Monitor SNMP ด้วย CloudProxy-vROps"
 author: guyzsarun
-categories: [vrops, snmp]
+categories: [vrops, snmp, vmware]
 image: assets/images/snmp-vrops/1.png
 ---
 
