@@ -1,0 +1,6 @@
+FROM jekyll/jekyll:3
+
+COPY Gemfile .
+COPY Gemfile.lock .
+
+RUN jekyll build
