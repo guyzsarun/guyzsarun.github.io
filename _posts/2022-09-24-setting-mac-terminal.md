@@ -23,9 +23,10 @@ To install simply run
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 ```
 For example, if we want to install htop to monitor CPU, RAM, and Swap usage, we can run brew install htop Homebrew will download and install the package for you.
-brew install commandsSome other useful packages
 
 ![htop](../assets/images/setting-mac-terminal/htop.png)
+
+#### Some other useful packages
 
 #### jq
 
@@ -78,6 +79,8 @@ echo "source ${(q-)PWD}/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh" >> 
 
 #### zsh-autosuggestions
 
+This plugin suggests commands as you typed
+
 To Install
 ```sh
 git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions
@@ -122,7 +125,7 @@ Add the Regex or Words that you want to trigger and Highlight Text action then s
 
 ![profile](../assets/images/setting-mac-terminal/profile.png)
 
-Adding a profile for connecting to a remote machine can be very useful. You can create new Profiles and group them using Tags. Update the starting command to ssh username@ip to quickly connect to your remote machine on a new Tab whenever you open that profile.
+Adding a profile for connecting to a remote machine can be very useful. You can create new Profiles and group them using Tags. Update the starting command to `ssh username@ip_address` to quickly connect to your remote machine on a new Tab whenever you open that profile.
 
 > Use ⌘ + Shift + B to quickly brings up all your profile on the side
 
