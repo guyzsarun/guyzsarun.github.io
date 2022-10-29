@@ -49,6 +49,7 @@ One of my primary responsibility is conducting proof-of-concept and workshops to
 
 <div class="row">
     <div class="column"><a href="https://xuecdn2.aliyunedu.net/img_1c2c5da90629015d0687f5ce26afbea6.png" target="_black"><img src="assets/images/about/aca-2022.png" class="badge-img"></a></div>
+    <div class="column"><a href="https://www.credential.net/0c9bfcb1-fab5-43aa-93a5-2cb316fcd071" target="_black"><img src="assets/images/about/pca.png" class="badge-img"></a></div>
 </div>
 
 <h4>Contact Me</h4>
