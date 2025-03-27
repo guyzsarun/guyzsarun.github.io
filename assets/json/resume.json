@@ -1,0 +1,247 @@
+{
+  "basics": {
+    "name": "Sarun Nuntaviriyakul",
+    "label": "DevOps Engineer",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "https://guyzsarun.github.io/",
+    "summary": "DevOps Engineer with a passion for automation and infrastructure as code. I have experience in cloud computing, container orchestration, and CI/CD tools. A quick learner and a team player who is always eager to learn new technologies.",
+    "location": {},
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "IBM",
+      "position": "DevOps Engineer",
+      "url": "https://www.ibm.com/us-en",
+      "startDate": "2024-03-01",
+      "endDate": "",
+      "summary": "",
+      "highlights": ["Jenkins", "Terraform", "Kubernetes", "Ansible", "Gitlab CI"]
+    },
+    {
+      "name": "CERN - CMS Experiment",
+      "position": "DevOps Engineer",
+      "location": "Geneva, Switzerland",
+      "url": "https://home.cern/science/experiments/cms",
+      "startDate": "2022-12-01",
+      "endDate": "2024-03-01",
+      "summary": "",
+      "highlights": ["Gitlab CI", "Kubernetes", "Github Action", "Ansible", "C++"]
+    },
+    {
+      "name": "IBM",
+      "position": "DevOps Engineer",
+      "url": "https://www.ibm.com/us-en",
+      "startDate": "2022-06-01",
+      "endDate": "2022-12-01",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "name": "VMware",
+      "position": "Associate Solution Engineer",
+      "url": "https://www.vmware.com/",
+      "startDate": "2021-06-01",
+      "endDate": "2022-06-01",
+      "summary": "",
+      "highlights": ["vSphere", "Tanzu", "vRealize", "Kubernetes"]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Rotaract Chulalongkorn University",
+      "position": "Vice President",
+      "url" : "",
+      "startDate": "2017",
+      "endDate": "2020",
+      "summary": "Coordinate with Rotary and Rotaractors from 16 universities throughout Thailand to organize and plan for charity projects, such as teaching and renovating schools in rural areas of Thailand.",
+      "highlights": ["Organize a volunteer camp for 60 Chulalongkorn University students together with 30 students in Saraburi."]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Chulalongkorn University",
+      "url": "https://www.chula.ac.th",
+      "area": "Information and Communication Engineering",
+      "studyType": "Bachelor of Engineering",
+      "startDate": "2017",
+      "endDate": "2020"
+    }
+  ],
+  "awards": [
+    {
+      "title": "Seeds for the future scholarship",
+      "date": "2019",
+      "awarder": "Huawei"
+    },
+    {
+      "title": "ISE50 Academic Excellence scholarship",
+      "date": "2017",
+      "awarder": "Chulalongkorn University"
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Github Foundations",
+      "date": "2024",
+      "issuer": "Microsoft",
+      "url": "https://www.credly.com/badges/932fec7a-757d-4c20-89b2-67096394199e",
+      "icon": "fa-brands fa-github"
+    },
+    {
+      "name": "Professional Cloud DevOps Engineer ",
+      "date": "2023",
+      "issuer": "Google Cloud",
+      "url": "https://www.credly.com/earner/earned/badge/09aef351-a1a5-4145-af1e-aaa5d5d264ba",
+      "icon": "fa-brands fa-google"
+    },
+    {
+      "name": "VMware Certified Master Specialist - Cloud Native",
+      "date": "2022",
+      "issuer": "Broadcom",
+      "url": "https://www.credly.com/earner/earned/badge/bb012c18-e638-4930-ac0d-8661e26b7a62",
+      "icon": "fa-solid fa-hashtag"
+    },
+    {
+      "name": "VMware Certified Professional - Application Modernization",
+      "date": "2022",
+      "issuer": "Broadcom",
+      "url": "https://www.credly.com/earner/earned/badge/0c8f6414-b4a2-4144-bde4-ccecbc3887d1",
+      "icon": "fa-solid fa-hashtag"
+    },
+    {
+      "name": "VMware Certified Professional - Network Virtualization",
+      "date": "2022",
+      "issuer": "Broadcom",
+      "url": "https://www.credly.com/earner/earned/badge/92976a81-2792-4efe-b575-f1d84a92449a",
+      "icon": "fa-solid fa-hashtag"
+    },
+    {
+      "name": "Double VCP - Data Center Virtualization & Network Virtualization",
+      "date": "2022",
+      "issuer": "Broadcom",
+      "url": "https://www.credly.com/earner/earned/badge/34637924-b4e3-4096-a8f0-638a0d5a5a49",
+      "icon": "fa-solid fa-hashtag"
+    },
+    {
+      "name": "Professional Cloud Architect",
+      "date": "2022",
+      "issuer": "Google Cloud",
+      "url": "https://www.credly.com/earner/earned/badge/29d34ed8-7866-4523-ad21-27ad2528857b",
+      "icon": "fa-brands fa-google"
+    },
+    {
+      "name": "DevOps Engineer Expert",
+      "date": "2022",
+      "issuer": "Microsoft",
+      "url": "https://www.credly.com/earner/earned/badge/0fecd3ec-8be2-48a0-866b-30fe336444ab",
+      "icon": "fa-brands fa-microsoft"
+    },
+    {
+      "name": "Microsoft Certified Trainer",
+      "date": "2022",
+      "issuer": "Microsoft",
+      "url": "https://www.credly.com/badges/8e5ebbc9-04a4-4725-bf83-24c0c2e3b21c",
+      "icon": "fa-brands fa-microsoft"
+    },
+    {
+      "name": "Azure Developer Associate",
+      "date": "2022",
+      "issuer": "Microsoft",
+      "url": "https://www.credly.com/earner/earned/badge/5987e02a-19f5-4784-98e5-64ed4a844c17",
+      "icon": "fa-brands fa-microsoft"
+    },
+    {
+      "name": "CKA: Certified Kubernetes Administrator",
+      "date": "2021",
+      "issuer": "The Linux Foundation",
+      "url": "https://www.credly.com/earner/earned/badge/bd9216de-7f8a-4e55-b745-bab829e54d43",
+      "icon": "fa-solid fa-gear"
+    },
+    {
+      "name": "CKAD: Certified Kubernetes Application Developer",
+      "date": "2021",
+      "issuer": "The Linux Foundation",
+      "url": "https://www.credly.com/earner/earned/badge/bf150258-fc8e-4878-8f5d-3c5ef96b6776",
+      "icon": "fa-solid fa-gear"
+    },
+    {
+      "name": "VMware Certified Professional - Data Center Virtualization",
+      "date": "2021",
+      "issuer": "Broadcom",
+      "url": "https://www.credly.com/earner/earned/badge/f3defe31-f6af-4323-85e2-449536d16b52",
+      "icon": "fa-solid fa-hashtag"
+    },
+    {
+      "name": "Azure Data Fundamentals",
+      "date": "2021",
+      "issuer": "Microsoft",
+      "url": "https://www.credly.com/earner/earned/badge/7b999889-e0d0-46e4-8ae7-c4ff37354e34",
+      "icon": "fa-brands fa-microsoft"
+    },
+    {
+      "name": "Azure AI Fundamentals",
+      "date": "2020",
+      "issuer": "Microsoft",
+      "url": "https://www.credly.com/earner/earned/badge/478f3d09-6e33-4951-a6ae-535a9adb2a2f",
+      "icon": "fa-brands fa-microsoft"
+    },
+    {
+      "name": "Azure Fundamentals",
+      "date": "2020",
+      "issuer": "Microsoft",
+      "url": "https://www.credly.com/earner/earned/badge/e432f0e6-35dd-4435-bd1a-524ca36e4e3c",
+      "icon": "fa-brands fa-microsoft"
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "IaC",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Ansible",
+        "Terraform"
+      ]
+    },
+    {
+      "name": "CI/CD Tools",
+      "level": "Master",
+      "icon": "fa-solid fa-infinity",
+      "keywords": [
+        "Jenkins",
+        "Github Action",
+        "Gitlab CI",
+        "ArgoCD"
+      ]
+    },
+    {
+      "name": "Deployments",
+      "level": "Master",
+      "icon": "fa-solid fa-cloud",
+      "keywords": [
+        "Kubernetes",
+        "Docker",
+        "AWS"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Thai",
+      "fluency": "Native speaker",
+      "icon": ""
+    },
+    {
+      "language": "English",
+      "fluency": "Fluent",
+      "icon": ""
+    }
+  ],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

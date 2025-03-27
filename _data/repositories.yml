@@ -1,0 +1,11 @@
+github_users:
+  - guyzsarun
+
+repo_description_lines_max: 2
+
+github_repos:
+  - guyzsarun-lab/home-server
+  - guyzsarun-lab/homelab
+  - guyzsarun-lab/ansible
+  - guyzsarun-lab/gitops
+  - CMSCompOps/xrootd-cmstfc
