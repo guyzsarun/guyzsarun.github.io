@@ -12,7 +12,7 @@ description: > # the ">" symbol means to ignore newlines until "footer_text:"
 footer_text: >
 keywords: jekyll, jekyll-theme, academic-website, portfolio-website
 lang: en
-icon: ⚛️
+icon: 🏔️
 
 url: https://guyzsarun.github.io
 baseurl:
@@ -83,8 +83,8 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: al-folio # blog_name will be displayed in your blog page
-blog_description: a simple whitespace theme for academics
+blog_name: guyzsarun
+blog_description: A personal blog sharing insights on technology, programming, and life experiences
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
@@ -227,7 +227,7 @@ jekyll-archives:
   books:
     enabled: [year, tags, categories] # enables year, tag and category archives (remove if you need to disable one of them).
 
-display_tags: ["formatting", "images", "links", "math", "code", "blockquotes"] # these tags will be displayed on the front page of your blog
+display_tags: ["kubernetes", "devops", "terraform", "homelab" ] # these tags will be displayed on the front page of your blog
 display_categories: ["external-services"] # these categories will be displayed on the front page of your blog
 
 # -----------------------------------------------------------------------------
@@ -235,8 +235,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Nuntaviriyakul]
+  first_name: [Sarun]
 
   style: apa
   locale: en

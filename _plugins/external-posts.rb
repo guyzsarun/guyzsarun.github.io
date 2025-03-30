@@ -59,6 +59,9 @@ module ExternalPosts
       doc.data['external_source'] = source_name
       doc.data['title'] = content[:title]
       doc.data['feed_content'] = content[:content]
+
+      content[:summary] = content[:summary].gsub(/width="\d+"/,"width=50%") if content[:summary]
+
       doc.data['description'] = content[:summary]
       doc.data['date'] = content[:published]
       doc.data['redirect'] = url
