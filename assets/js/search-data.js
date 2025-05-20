@@ -44,7 +44,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "post-manage-vault-secrets-with-terraform",
+        },{id: "post-replacing-google-photos-with-immich-on-a-raspberry-pi",
+        
+          title: 'Replacing Google Photos with Immich on a Raspberry Pi <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        
+        description: "Google Photos has long been my the go-to platform for storing and organizing our cherished memories, with my 200GB plan nearly full&amp;#x2026;Continue reading on Dev Genius »",
+        section: "Posts",
+        handler: () => {
+          
+            window.open("https://blog.devgenius.io/replacing-google-photos-with-immich-on-a-raspberry-pi-cf05d244149d?source=rss-eceaca31db9a------2", "_blank");
+          
+        },
+      },{id: "post-manage-vault-secrets-with-terraform",
         
           title: 'Manage Vault Secrets with Terraform <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
         
@@ -141,28 +152,6 @@ ninja.data = [{
         handler: () => {
           
             window.open("https://blog.devgenius.io/dont-repeat-yourself-with-yaml-anchor-29180b6f6313?source=rss-eceaca31db9a------2", "_blank");
-          
-        },
-      },{id: "post-kubernetes-deployment-strategy-explained",
-        
-          title: 'Kubernetes Deployment Strategy Explained <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
-        
-        description: "Continue reading on Dev Genius »",
-        section: "Posts",
-        handler: () => {
-          
-            window.open("https://blog.devgenius.io/kubernetes-deployment-strategy-explained-bf27fea088e1?source=rss-eceaca31db9a------2", "_blank");
-          
-        },
-      },{id: "post-a-post-with-images",
-        
-          title: "a post with images",
-        
-        description: "this is what included images could look like",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2015/images/";
           
         },
       },{id: "projects-homelab",
